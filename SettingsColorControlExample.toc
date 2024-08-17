@@ -1,0 +1,9 @@
+﻿## Interface: 110002
+## Title: SettingsColorControlExample
+## Notes: SettingsColorControlExample
+## Version: 1.0.0
+## Author: Muhmiauwau
+## SavedVariables: SettingsColorControlExample
+
+frames.xml
+Config.lua
